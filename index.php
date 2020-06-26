@@ -1,9 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>My Web Site</title>
-</head>
-<body>
+<?php
+ require "header.php";
+ ?>
+ <main>
+ 	<p>You are Logged Out!</p>
+ 	<p>You are Logged In!</p>
+ 	</main>
 
-</body>
-</html>
+ <?php
+ require "footer.php";
+ ?>
